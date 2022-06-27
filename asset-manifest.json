@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logique-test/static/css/main.d891040a.css",
+    "main.js": "/logique-test/static/js/main.bc0770de.js",
+    "index.html": "/logique-test/index.html",
+    "main.d891040a.css.map": "/logique-test/static/css/main.d891040a.css.map",
+    "main.bc0770de.js.map": "/logique-test/static/js/main.bc0770de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d891040a.css",
+    "static/js/main.bc0770de.js"
+  ]
+}
